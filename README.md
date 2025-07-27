@@ -12,7 +12,7 @@ This HR analytics Tableau project is aimed at providing HR managers and business
 This includes trendline and target line to help HR managers track progress toward reducing attrition. employee demographics,
 turnover rates, hiring trends, performance metrics, and satisfaction scores to improve HR decision-making. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further
 
-# Technologies Used:
+## Technologies Used:
 - Advance Excel
 - Tableau Public
 - Statistics
